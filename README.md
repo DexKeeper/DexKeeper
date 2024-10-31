@@ -19,22 +19,22 @@ DexKeeper é uma aplicação CRUD web desenvolvida para facilitar o gerenciament
 ## Estrutura do Projeto
 DexKeeper/
 
-backend/ # Código e configuração do back-end
+- backend/ # Código e configuração do back-end
 
-models/ # Modelos de dados (Pokémon, Treinador)
-controllers/ # Lógica de controle para cada rota
-routes/ # Definição das rotas CRUD
-middleware/ # Middlewares (como autenticação)
-config/ # Configurações, como banco de dados e JWT
-app.js # Arquivo principal do servidor
-frontend/ # Código e configuração do front-end
+- models/ # Modelos de dados (Pokémon, Treinador)
+- controllers/ # Lógica de controle para cada rota
+- routes/ # Definição das rotas CRUD
+- middleware/ # Middlewares (como autenticação)
+- config/ # Configurações, como banco de dados e JWT
+- app.js # Arquivo principal do servidor
+- frontend/ # Código e configuração do front-end
 
-components/ # Componentes reutilizáveis (ex: Navbar, Footer)
-pages/ # Páginas principais (Home, Perfil do Treinador)
-services/ # Serviços de API para comunicação com o back-end
-assets/ # Arquivos estáticos (imagens, CSS)
-App.js # Componente principal do React/Vue
-README.md # Documentação do projeto
+- components/ # Componentes reutilizáveis (ex: Navbar, Footer)
+- pages/ # Páginas principais (Home, Perfil do Treinador)
+- services/ # Serviços de API para comunicação com o back-end
+- assets/ # Arquivos estáticos (imagens, CSS)
+- App.js # Componente principal do React/Vue
+- README.md # Documentação do projeto
 
 ## Roadmap de Desenvolvimento
 
