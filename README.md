@@ -40,8 +40,8 @@ DexKeeper/
 
 - [ ] Configuração do ambiente e dependências
   - Configuração do repositório Git e organização inicial
-  - Configuração do ambiente Node.js e/ou Django
-  - Configuração do banco de dados (PostgreSQL ou SQLite)
+  - Configuração do ambiente Node.js
+  - Configuração do banco de dados (PostgreSQL)
   
 - [ ] Implementação do CRUD de Pokémon
   - Criação da estrutura de rotas e controladores para Pokémon
