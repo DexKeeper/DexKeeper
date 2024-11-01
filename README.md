@@ -11,9 +11,9 @@ DexKeeper é uma aplicação CRUD web desenvolvida para facilitar o gerenciament
 - **Perfil do Treinador**: Página dedicada a exibir as informações e equipe de cada treinador.
 
 ## Tecnologias Utilizadas
-- **Back-End**: Node.js (Express) ou Django
-- **Front-End**: React ou Vue.js
-- **Banco de Dados**: PostgreSQL ou SQLite
+- **Back-End**: Node.js (Express)
+- **Front-End**: React
+- **Banco de Dados**: PostgreSQL 
 - **Autenticação**: JWT (JSON Web Tokens)
 
 ## Estrutura do Projeto
