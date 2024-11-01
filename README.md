@@ -2,7 +2,7 @@
 Aplicação web de gerenciamento de Pokémon e Treinadores
 
 ## Descrição
-DexKeeper é uma aplicação CRUD web desenvolvida para facilitar o gerenciamento de Pokémon e Treinadores. Criado como um projeto educativo, DexKeeper permite criar, editar e visualizar equipes de Pokémon, registrar e gerenciar treinadores, além de oferecer uma experiência prática no desenvolvimento web full-stack. Este projeto visa consolidar habilidades em arquitetura de software, integração front-end e back-end, autenticação de usuários e modelagem de dados, sendo também uma excelente adição ao currículo dos desenvolvedores.
+DexKeeper é uma aplicação CRUD web desenvolvida para facilitar o gerenciamento de Pokémon e Treinadores. Criado como um projeto educativo, DexKeeper permite criar, editar e visualizar equipes de Pokémon, registrar e gerenciar treinadores, além de oferecer uma experiência prática no desenvolvimento web full-stack. Este projeto visa consolidar habilidades em arquitetura de software, integração front-end e back-end, autenticação de usuários e modelagem de dados.
 
 ## Principais Funcionalidades
 - **CRUD de Pokémon**: Permite a inclusão, edição, exclusão e visualização de dados de Pokémon.
